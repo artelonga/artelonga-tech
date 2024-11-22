@@ -39,9 +39,6 @@ draft: false
 	* [[What is Web3?#^1be34c|leitura e escrita]]
 	* protocolos empacotados em produtos
 
-> [!quote] [Código Fonte TV]()
->  A Web 3.0 não é um conceito futuro distante, mas algo que já está em desenvolvimento, com impacto direto na maneira como interagimos e conduzimos negócios online.
-
-
+> 
 
 
