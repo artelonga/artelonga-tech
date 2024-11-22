@@ -1,3 +1,7 @@
+---
+title: Crie sua comunidade!
+---
+
 # Sua comunidade na Rede Arte 
 
 ## Requerimentos
