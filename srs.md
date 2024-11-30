@@ -35,7 +35,7 @@ Software Requirements Specification (SRS) descreve
 * incentiva os padrões de desenvolvimento
 * mitiga riscos em cada fase do desenvolvimento
 
-SRS deve ser flexível e permitir atualizações 
+SRS deve ser flexível e permitir atualizações.
 
 
 
