@@ -39,6 +39,6 @@ SRS deve ser flexível e permitir atualizações
 
 ## Estrutura
 
-### Introdução
-* Propósito
+
+
 	
