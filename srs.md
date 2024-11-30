@@ -37,8 +37,6 @@ Software Requirements Specification (SRS) descreve
 
 SRS deve ser flexível e permitir atualizações 
 
-## Estrutura
-
 
 
 	
