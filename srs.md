@@ -6,15 +6,18 @@ date: 2024-11-23
 time: 08:49
 type: ref
 tags: 
-draft: true
+draft: false
 url: https://www.youtube.com/watch?v=PtJmjPkrSUE
 author: 
 publication_date: 
 truth:
 ---
+
 > [!info]- Referência
 > O conteúdo desta página é transcrição ou tradução do conteúdo original.
 >  <br><br>Referências são fontes de verdade. Você pode contestar o conteúdo de uma referência [aqui](https://github.com/artelonga/redearte/issues/new/choose).
+
+# Como escrever a especificação de requerimentos de software 
 
 ## SRS
 
