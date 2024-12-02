@@ -6,7 +6,7 @@ date: 2024-11-22
 time: 08:55
 type: garden
 tags: 
-draft: true
+draft: false
 ---
 ArteLonga Tecnologia foi criada para contribuir para a missão original da internet de ser uma rede de conhecimento livre.
 
